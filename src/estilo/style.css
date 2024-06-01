@@ -11,6 +11,10 @@ header {
   padding: 30px;
 }
 
+ul > li {
+  padding: 5px;
+}
+
 h1 {
   text-align: center;
 }
@@ -21,7 +25,8 @@ nav {
 
 iframe#screen {
   width: 90vw;
-  height: calc(100vh - 177px);
+  height: calc(100vh - 209px);
   display: block;
   margin: auto;
+  border: none;
 }
