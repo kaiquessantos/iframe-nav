@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  padding: 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  margin: auto;
+}
+
+iframe#screen {
+  width: 90vw;
+  height: calc(100vh - 177px);
+  display: block;
+  margin: auto;
+}
